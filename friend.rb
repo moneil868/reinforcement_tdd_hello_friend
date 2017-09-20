@@ -1,8 +1,12 @@
 class Friend
 
-  def greet
 
+
+  def greet(name = "")
+    return "Hello #{name}!"
   end
+
+
 
 
 end

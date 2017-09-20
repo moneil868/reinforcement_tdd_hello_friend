@@ -1,6 +1,6 @@
 class Friend
 
-  def greets_someone
+  def greet
 
   end
 
